@@ -1,0 +1,10 @@
+title       = "dbi"
+baseURL     = "https://databaseinternals-cli.tamnd.com/"
+description = "Browse Database Internals book content"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/databaseinternals-cli"
